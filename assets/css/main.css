@@ -29,8 +29,8 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 img {
-  width: 200px;
-  height: 200px;
+  width: 256px;
+  height: 256px;
 }
 body {
 	line-height: 1;
