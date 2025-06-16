@@ -28,13 +28,11 @@ section, summary, time, mark, audio, video {
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
-
 img {
-  width: 250px;
-  height: 250px;
-  object-fit: scale-down;
+  width: 200px;
+  height: 300px;
+  object-fit: contain;
 }
-
 body {
 	line-height: 1;
 }
