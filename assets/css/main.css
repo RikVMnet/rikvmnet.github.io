@@ -29,6 +29,12 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+img {
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+}
+
 body {
 	line-height: 1;
 }
